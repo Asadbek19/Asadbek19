@@ -1,7 +1,7 @@
 ## Hi there, I'm Asadbek Akramov 👋
 
-### 👩‍💻 Connect with me:
-
+### 👨‍💻 Connect with me:
+- [![Linkedin Badge](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/asadbek-akramov-profile/)
 
 ### 🛠️ Languages and Tools:
 <div>
