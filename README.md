@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<div>
+- <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='Python', width='80', height='40'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL', width='80', height='40'/>&nbsp;
 </div>
