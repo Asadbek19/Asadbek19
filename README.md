@@ -1,5 +1,6 @@
 ## Hi there, I'm Asadbek Akramov 👋
 # I'm Data Scientist
+---
 
 ### 👨‍💻 Connect with me:
 
