@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Connect with me:
 <div>
-  <a href="https://www.linkedin.com/in/asadbek-akramov-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/asadbek-akramov-profile" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="60" height="60"/>
   </a>&nbsp;
 
