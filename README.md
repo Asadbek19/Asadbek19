@@ -7,15 +7,15 @@
 
 ### 🛠️ Languages and Tools:
 <div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='Python', width='80', height='80'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title='Python', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg' title='PostgreSQL', width='80', height='80'/>&nbsp;
 </div>
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' title='Scikit-learn', width='80', height='80'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg' title='Keras', width='80', height='80'/>&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg' title='Pandas', width='80', height='80'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' title='NumPy', width='80', height='80'/>&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg' title='Matplotlib', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg' title='Keras', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' title='Pandas', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' title='NumPy', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg' title='Matplotlib', width='80', height='80'/>&nbsp;
   <img src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' title='Seaborn', width='80', height='80'/>&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg' title='SciPy', width='80', height='80'/>&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' title='Spark', width='80', height='80'/>&nbsp;
