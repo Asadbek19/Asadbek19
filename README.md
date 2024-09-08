@@ -6,7 +6,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="60" height="60"/>
   </a>&nbsp;
   
-  <a href="mailto:akr.asadbke@gmail.com">
+  <a href="akr.asadbke@gmail.com">
     <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Email" width="60" height="60"/>
   </a>&nbsp;
   
