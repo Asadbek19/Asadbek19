@@ -11,11 +11,16 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL', width='80', height='80'/>&nbsp;
 </div>
 <dib>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' title='Scikit-learn', width='40', height='40'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg' title='Keras', width='40', height='40'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' title='Pandas', width='40', height='40'/>&nbsp;
-  
-  <img src='' title='', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' title='Scikit-learn', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg' title='Keras', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' title='Pandas', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' title='NumPy', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg' title='Matplotlib', width='80', height='80'/>&nbsp;
+  <img src='' title='', width='80', height='80'/>&nbsp;
+  <img src='' title='', width='80', height='80'/>&nbsp;
+  <img src='' title='', width='80', height='80'/>&nbsp;
+  Matp
+  <img src='' title='', width='80', height='80'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='40', height='40'/>&nbsp;
 </div>
 
