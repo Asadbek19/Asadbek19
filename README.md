@@ -7,6 +7,12 @@
 
 ### 🛠️ Languages and Tools:
 <div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' title='Python', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' title='PostgreSQL', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg' title='Scikit-learn', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg' title='Keras', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' title='Pandas', width='40', height='40'/>&nbsp;
+    
   <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='40', height='40'/>&nbsp;
 </div>
 
