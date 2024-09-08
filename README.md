@@ -1,6 +1,6 @@
 ## Hi there, I'm Asadbek Akramov 👋
 
-### Connect with me:
+### 👩‍💻 Connect with me:
 
 
 ### 🛠️ Languages and Tools:
