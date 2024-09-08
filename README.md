@@ -16,8 +16,8 @@
 
 Профили в социальных сетях:
 
-- [LinkedIn] (https://www.linkedin.com/in/asadbek-akramov-profile/)
-- [GitHub] (https://github.com/Asadbek19/)
+[LinkedIn] (https://www.linkedin.com/in/asadbek-akramov-profile/)
+[GitHub] (https://github.com/Asadbek19/)
 
 **Статус занятости:** В настоящее время ищу новые возможности в области Data Science и открыт для предложений.
 
