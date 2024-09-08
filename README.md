@@ -4,11 +4,11 @@
 
 <div>
   <a href="https://www.linkedin.com/in/asadbek-akramov-profile/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" width="60" height="60"/>&nbsp;
   </a>
   
   <a href="https://t.me/akrmb7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" width="60" height="60"/>&nbsp;
   </a>
 </div>
 
