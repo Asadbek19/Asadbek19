@@ -5,6 +5,13 @@
 
 ---
 
+### 🛠️ Languages and Tools:
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='40', height='40'/>&nbsp;
+</div>
+
+
+
 Технологии и инструменты:
 
 - Языки программирования: Python, SQL
