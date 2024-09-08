@@ -19,9 +19,11 @@
   <img src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' title='Seaborn', width='80', height='80'/>&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg' title='SciPy', width='80', height='80'/>&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' title='Spark', width='80', height='80'/>&nbsp;
-  
-  <img src='' title='', width='80', height='80'/>&nbsp;
+</div>
+
+<div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg' title='Jira', width='80', height='80'/>&nbsp;
 </div>
 
 
