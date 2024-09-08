@@ -5,14 +5,21 @@
 
 ---
 
-Вот пример списка технологий и инструментов для Data Science:
+Технологии и инструменты:
 
-Языки программирования: Python, SQL
-Фреймворки и библиотеки: Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
-Системы аналитики: Jupyter Notebooks, Google Colab
-СУБД: MySQL, PostgreSQL
-Инструменты визуализации данных: Tableau, Power BI
-Этот список можно адаптировать в зависимости от вашего уровня знаний и опыта.
+- Языки программирования: Python, SQL
+- Фреймворки и библиотеки: Scikit-learn, Keras, Pandas, NumPy, Matplotlib, Seaborn, SciPy, PySpark
+- Системы аналитики: Jupyter Notebooks, Google Colab
+- СУБД: MySQL, PostgreSQL
+
+---
+
+Профили в социальных сетях:
+
+- [LinkedIn] (https://www.linkedin.com/in/asadbek-akramov-profile/)
+- [GitHub] (https://github.com/Asadbek19/)
+
+**Статус занятости:** В настоящее время ищу новые возможности в области Data Science и открыт для предложений.
 
 <!--
 **Asadbek19/Asadbek19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
