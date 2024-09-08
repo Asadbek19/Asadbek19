@@ -22,7 +22,7 @@
 </div>
 
 <div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='40', height='40'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='80', height='80'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg' title='Jira', width='80', height='80'/>&nbsp;
 </div>
 
