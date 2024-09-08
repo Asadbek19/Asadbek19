@@ -20,10 +20,14 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg' title='SciPy', width='80', height='80'/>&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' title='Spark', width='80', height='80'/>&nbsp;
 </div>
-
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg' title='AzureDevOps', width='80', height='80'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg' title='Jira', width='80', height='80'/>&nbsp;
+</div>
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg' title='PyCharm', width='80', height='80'/>&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' title='VSCode', width='80', height='80'/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' title='Jupyter', width='80', height='80'/>&nbsp;
 </div>
 
 
