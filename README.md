@@ -15,7 +15,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg' title='Keras', width='80', height='80'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' title='Pandas', width='80', height='80'/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' title='NumPy', width='80', height='80'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg' title='Matplotlib', width='80', height='80'/>&nbsp;
+  <img src='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg' title='Matplotlib', width='80', height='80'/>&nbsp;
   <img src='https://seaborn.pydata.org/_images/logo-tall-lightbg.svg' title='Seaborn', width='80', height='80'/>&nbsp;
   <img src='' title='', width='80', height='80'/>&nbsp;
   <img src='' title='', width='80', height='80'/>&nbsp;
